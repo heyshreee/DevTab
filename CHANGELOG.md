@@ -8,7 +8,7 @@ All notable changes to DevTab are documented here. The format is based on
 
 ### Changed
 
-- README product demo uses a local animated GIF optimized from 25.7 MB to 6.9 MB.
+- README product demo now embeds a local animated GIF.
 
 ### Added
 
